@@ -5,10 +5,12 @@ import Link from 'next/link'
 export default function Activities(){
     return(
         <main className={styles.main}>
-            <p>
-               <code className={styles.code}><Link href="/" replace>Back to Top</Link></code> 
-            </p>
-        <h1>Coming Soon.</h1>
+            <div className={styles.description}>
+                <p>
+                   <code className={styles.code}><Link href="/" replace>Back to Top</Link></code> 
+                </p>
+            </div>
+            <h1>Coming Soon.</h1>
         </main>
     )
 
