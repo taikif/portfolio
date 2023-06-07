@@ -60,7 +60,6 @@ export default function Home() {
         <a
           href="/contact"
           className={styles.card}
-          target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
@@ -72,7 +71,6 @@ export default function Home() {
         <a
           href="skills"
           className={styles.card}
-          target="_blank"
           rel="noopener noreferrer"
         >
           <h2>
@@ -83,10 +81,6 @@ export default function Home() {
           </p>
         </a>
       </div>
-
-
-
-
     </main>
   )
 }
