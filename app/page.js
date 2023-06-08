@@ -12,13 +12,13 @@ export default function Home() {
         </p>
         <div>
           <a
-            href="https://"
+            href="https://github.com/ftaiki"
             target="_blank"
             rel="noopener noreferrer"
           >
             <Image
               src="/taikif_logo_text_2.svg"
-              alt="Vercel Logo"
+              alt="Taikif Logo"
               className={styles.vercelLogo}
               width={200}
               height={100}
@@ -69,7 +69,7 @@ export default function Home() {
         </a>
 
         <a
-          href="skills"
+          href="/skills"
           className={styles.card}
           rel="noopener noreferrer"
         >

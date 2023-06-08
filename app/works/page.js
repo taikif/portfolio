@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import styles from 'app/page.module.css'
+import styles from 'app/works/works.module.css'
 import Link from 'next/link'
 
 export default function Works(){
@@ -11,7 +11,7 @@ export default function Works(){
                 </p>
                 <div>
                   <a
-                    href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+                    href="https://github.com/ftaiki"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -36,10 +36,48 @@ export default function Works(){
 
             <div className={styles.grid}>
               <a
-                href="hogehoge"
+                href="https://my.prairie.cards/u/taikif"
+                className={styles.card}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 
-              />
-            </div>
+                <h2>
+                  prairie-card<span>-&gt;</span>
+                </h2>
+                <p>
+                  Degital business card.
+                </p>
+              </a>
+
+                <a
+                  href="https://taikif.hatenablog.com/"
+                  className={styles.card}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <h2>
+                    Blog<span>-&gt;</span>
+                  </h2>
+                  <p>
+                    Hatena-Blog.
+                  </p>
+                </a>
+
+                <a
+                  href="https://github.com/ftaiki"
+                  className={styles.card}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <h2>
+                    Github<span>-&gt;</span>
+                  </h2>
+                  <p>
+                    What I have made.
+                  </p>
+                </a>
+              </div>
 
         </main>
 
