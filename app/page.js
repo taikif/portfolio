@@ -41,7 +41,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Works <span>-&gt;</span>
+            Works<span>-&gt;</span>
           </h2>
           <p>The work I have made so far.</p>
         </a>
@@ -63,7 +63,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Contact <span>-&gt;</span>
+            Contact<span>-&gt;</span>
           </h2>
           <p>You can contact me from here.</p>
         </a>
@@ -74,7 +74,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Skills <span>-&gt;</span>
+            Skills<span>-&gt;</span>
           </h2>
           <p>
             What I could do.
