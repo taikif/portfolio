@@ -65,7 +65,7 @@ export default function Works(){
                 </a>
 
                 <a
-                  href="https://github.com/ftaiki"
+                  href="https://github.com/taikif"
                   className={styles.card}
                   target="_blank"
                   rel="noopener noreferrer"
