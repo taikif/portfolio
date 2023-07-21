@@ -9,8 +9,18 @@ export default function Activities(){
                 <p>
                    <code className={styles.code}><Link href="/" replace>Back to Top</Link></code> 
                 </p>
+                <div>
+                    test
+                </div>
+                <div>
+                    test
+                </div>
+                <div>
+                    test
+                </div>
+
             </div>
-            <h1>Coming Soon.</h1>
+            
         </main>
 
     )
