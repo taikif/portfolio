@@ -10,16 +10,38 @@ export default function Activities(){
                    <code className={styles.code}><Link href="/" replace>Back to Top</Link></code> 
                 </p>
                 <div>
-                    test
+                  <a
+                    href="https://github.com/taikif"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <Image
+                    src="/taikif_logo_text_2.svg"
+                    alt="Taikif Logo"
+                    className={styles.vercelLogo}
+                    width={200}
+                    height={100}
+                    priority
+                    />
+                  </a>
                 </div>
-                <div>
-                    test
-                </div>
-                <div>
-                    test
-                </div>
-
             </div>
+
+
+                <div className={styles.center}>
+                    <h1>
+                        Activities
+                    </h1>
+                </div>
+                <div>
+                    test
+                </div>
+                <div>
+                    test
+                </div>
+                <div>
+                    test
+                </div>
             
         </main>
 

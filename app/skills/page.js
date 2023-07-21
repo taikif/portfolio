@@ -9,8 +9,29 @@ export default function Activities(){
                 <p>
                    <code className={styles.code}><Link href="/" replace>Back to Top</Link></code> 
                 </p>
+                <div>
+                  <a
+                    href="https://github.com/taikif"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <Image
+                    src="/taikif_logo_text_2.svg"
+                    alt="Taikif Logo"
+                    className={styles.vercelLogo}
+                    width={200}
+                    height={100}
+                    priority
+                    />
+                  </a>
+                </div>
             </div>
-            <h1>Coming Soon.</h1>
+            
+            <div className={styles.center}>
+                    <h1>
+                        Skills
+                    </h1>
+                </div>
         </main>
     )
 

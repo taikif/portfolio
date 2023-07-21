@@ -11,7 +11,7 @@ export default function Works(){
                 </p>
                 <div>
                   <a
-                    href="https://github.com/ftaiki"
+                    href="https://github.com/taikif"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
