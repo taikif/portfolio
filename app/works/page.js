@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import styles from 'app/works/works.module.css'
+import styles from 'app/page.module.css'
 import Link from 'next/link'
 
 export default function Works(){
@@ -25,7 +25,6 @@ export default function Works(){
                     />
                   </a>
                 </div>
-
             </div>
 
             <div className={styles.center}>
