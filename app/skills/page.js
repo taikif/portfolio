@@ -31,7 +31,39 @@ export default function Activities(){
                     <h1>
                         Skills
                     </h1>
-                </div>
+            </div>
+
+            <div className={styles.grid}>
+            <h2 className={styles.card}>
+              Java
+            </h2>
+            <h2 className={styles.card}>
+              Python
+            </h2>
+            <h2 className={styles.card}>
+              C++
+            </h2>
+            <h2 className={styles.card}>
+              PHP
+            </h2>
+            <h2 className={styles.card}>
+              Rust
+            </h2>
+            <h2 className={styles.card}>
+              GO
+            </h2>
+            <h2 className={styles.card}>
+              HTML
+            </h2>
+            <h2 className={styles.card}>
+              CSS
+            </h2>
+            <h2 className={styles.card}>
+              JS
+            </h2>
+            
+
+            </div>
         </main>
     )
 

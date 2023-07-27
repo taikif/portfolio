@@ -32,7 +32,11 @@ export default function Activities(){
                     <h1>
                         Contact
                     </h1>
-                </div>
+            </div>
+
+            
+
+
         </main>
     )
 
