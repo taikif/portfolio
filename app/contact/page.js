@@ -33,7 +33,15 @@ export default function Activities(){
                         Contact
                     </h1>
             </div>
-
+            <div className={styles.card}>
+              <p>Mail：xxxtaikif@gmail.com</p>
+            </div>
+            <div>
+              <p>Discord：taikif</p>
+            </div>
+            <div>
+              <p>Twitter：@enjoy_ctf</p>
+            </div>
             
 
 
