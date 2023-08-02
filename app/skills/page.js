@@ -33,7 +33,7 @@ export default function Activities(){
                     </h1>
             </div>
             <div className={styles.card}>
-              <h2>保有資格(セキュリティ系)</h2>
+              <h2>保有資格&#040;セキュリティ系&#041;</h2>
             </div>
             <div className={styles.grid}>
               <h3 className={styles.card}>
