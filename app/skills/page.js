@@ -53,6 +53,9 @@ export default function Activities(){
               </h3>
             </div>
 
+            <div className={styles.card}>
+              <h2>コーディングスキル</h2>
+            </div>
             <div className={styles.grid}>
             <h3 className={styles.card}>
               Java
