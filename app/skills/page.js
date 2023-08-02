@@ -36,54 +36,54 @@ export default function Activities(){
               <h2>保有資格&#040;セキュリティ系&#041;</h2>
             </div>
             <div className={styles.grid}>
-              <h3 className={styles.card}>
+              <p className={styles.card}>
                 情報処理安全確保支援士
-              </h3>
-              <h3 className={styles.card}>
+              </p>
+              <p className={styles.card}>
                 SC-200
-              </h3>
-              <h3 className={styles.card}>
+              </p>
+              <p className={styles.card}>
                 CompTIA CySA+
-              </h3>
-              <h3 className={styles.card}>
+              </p>
+              <p className={styles.card}>
                 SG
-              </h3>
-              <h3 className={styles.card}>
+              </p>
+              <p className={styles.card}>
                 SEA/J CIBM
-              </h3>
+              </p>
             </div>
 
             <div className={styles.card}>
               <h2>コーディングスキル</h2>
             </div>
             <div className={styles.grid}>
-            <h3 className={styles.card}>
+            <p className={styles.card}>
               Java
-            </h3>
-            <h3 className={styles.card}>
+            </p>
+            <p className={styles.card}>
               Python
-            </h3>
-            <h3 className={styles.card}>
+            </p>
+            <p className={styles.card}>
               C++
-            </h3>
-            <h3 className={styles.card}>
+            </p>
+            <p className={styles.card}>
               PHP
-            </h3>
-            <h3 className={styles.card}>
+            </p>
+            <p className={styles.card}>
               Rust
-            </h3>
-            <h3 className={styles.card}>
+            </p>
+            <p className={styles.card}>
               GO
-            </h3>
-            <h3 className={styles.card}>
+            </p>
+            <p className={styles.card}>
               HTML
-            </h3>
-            <h3 className={styles.card}>
+            </p>
+            <p className={styles.card}>
               CSS
-            </h3>
-            <h3 className={styles.card}>
+            </p>
+            <p className={styles.card}>
               JS
-            </h3>
+            </p>
             
 
             </div>
