@@ -33,14 +33,15 @@ export default function Activities(){
                         Activities
                     </h1>
                 </div>
-                <div>
-                    test
+                <div className={styles.card}>
+                    <p>
+                        はてなブログを更新しました（2023/08/02）
+                    </p>
                 </div>
-                <div>
-                    test
-                </div>
-                <div>
-                    test
+                <div className={styles.card}>
+                    <p>
+                        はてなブログを更新しました（2023/07/20）
+                    </p>
                 </div>
             
         </main>

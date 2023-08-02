@@ -34,13 +34,13 @@ export default function Activities(){
                     </h1>
             </div>
             <div className={styles.card}>
-              <p>Mail：xxxtaikif@gmail.com</p>
+              <h2>Mail：xxxtaikif@gmail.com</h2>
             </div>
-            <div>
-              <p>Discord：taikif</p>
+            <div className={styles.card}>
+              <h2>Discord：taikif</h2>
             </div>
-            <div>
-              <p>Twitter：@enjoy_ctf</p>
+            <div className={styles.card}>
+              <h2>Twitter：@enjoy_ctf</h2>
             </div>
             
 
