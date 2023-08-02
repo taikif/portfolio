@@ -54,31 +54,31 @@ export default function Activities(){
             </div>
 
             <div className={styles.grid}>
-            <h3 className={styles.card} style="text-align:center">
+            <h3 className={styles.card}>
               Java
             </h3>
-            <h3 className={styles.card} style="text-align:center">
+            <h3 className={styles.card}>
               Python
             </h3>
-            <h3 className={styles.card} style="text-align:center">
+            <h3 className={styles.card}>
               C++
             </h3>
-            <h3 className={styles.card} style="text-align:center">
+            <h3 className={styles.card}>
               PHP
             </h3>
-            <h3 className={styles.card} style="text-align:center">
+            <h3 className={styles.card}>
               Rust
             </h3>
-            <h3 className={styles.card} style="text-align:center">
+            <h3 className={styles.card}>
               GO
             </h3>
-            <h3 className={styles.card} style="text-align:center">
+            <h3 className={styles.card}>
               HTML
             </h3>
-            <h3 className={styles.card} style="text-align:center">
+            <h3 className={styles.card}>
               CSS
             </h3>
-            <h3 className={styles.card} style="text-align:center">
+            <h3 className={styles.card}>
               JS
             </h3>
             
