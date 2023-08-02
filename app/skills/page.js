@@ -32,33 +32,53 @@ export default function Activities(){
                         Skills
                     </h1>
             </div>
+            <div className={styles.card}>
+              <h2>保有資格(セキュリティ系)</h2>
+            </div>
+            <div className={styles.grid}>
+              <h3 className={styles.card}>
+                情報処理安全確保支援士
+              </h3>
+              <h3 className={styles.card}>
+                SC-200
+              </h3>
+              <h3 className={styles.card}>
+                CompTIA CySA+
+              </h3>
+              <h3 className={styles.card}>
+                SG
+              </h3>
+              <h3 className={styles.card}>
+                SEA/J CIBM
+              </h3>
+            </div>
 
             <div className={styles.grid}>
-            <h3 className={styles.card}>
+            <h3 className={styles.card} style="text-align:center">
               Java
             </h3>
-            <h3 className={styles.card}>
+            <h3 className={styles.card} style="text-align:center">
               Python
             </h3>
-            <h3 className={styles.card}>
+            <h3 className={styles.card} style="text-align:center">
               C++
             </h3>
-            <h3 className={styles.card}>
+            <h3 className={styles.card} style="text-align:center">
               PHP
             </h3>
-            <h3 className={styles.card}>
+            <h3 className={styles.card} style="text-align:center">
               Rust
             </h3>
-            <h3 className={styles.card}>
+            <h3 className={styles.card} style="text-align:center">
               GO
             </h3>
-            <h3 className={styles.card}>
+            <h3 className={styles.card} style="text-align:center">
               HTML
             </h3>
-            <h3 className={styles.card}>
+            <h3 className={styles.card} style="text-align:center">
               CSS
             </h3>
-            <h3 className={styles.card}>
+            <h3 className={styles.card} style="text-align:center">
               JS
             </h3>
             
