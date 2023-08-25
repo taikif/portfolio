@@ -7,7 +7,7 @@ export default function Activities(){
         <main className={styles.main}>
             <div className={styles.description}>
                 <p>
-                   <code className={styles.code}><Link href="/" replace>Back to Top</Link></code> 
+                   <code className={styles.code}><Link href="/" replace>Back</Link></code> 
                 </p>
                 <div>
                   <a
