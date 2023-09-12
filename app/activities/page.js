@@ -35,25 +35,25 @@ export default function Activities(){
                 </div>
                 <div className={styles.card_activities}>
                 <Image src="/blog.svg"
-              alt="mail"
+              alt="blog"
               className={styles.vercelLogo}
               width={50}
               height={50}
               priority/>
 
-                    <p styles={p_activities}>
+                    <p className={styles.p_activities}>
                         はてなブログを更新しました（2023/08/02）
                     </p>
                 </div>
                 <div className={styles.card_activities}>
                 <Image src="/blog.svg"
-              alt="mail"
+              alt="blog"
               className={styles.vercelLogo}
               width={50}
               height={50}
               priority/>
 
-                    <p styles={p_activities}>
+                    <p className={styles.p_activities}>
                         はてなブログを更新しました（2023/07/20）
                     </p>
                 </div>
