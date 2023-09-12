@@ -33,20 +33,32 @@ export default function Activities(){
                         Contact
                     </h1>
             </div>
-            <div className={styles.card}>
+            <div className={styles.card_contact}>
               <Image src="/mail_pic.svg"
               alt="mail"
               className={styles.vercelLogo}
-              width={200}
-              height={100}
+              width={50}
+              height={50}
               priority/>
-              <h3>Mail：xxxtaikif@gmail.com</h3>
+              <h3 style="position: relative;bottom: -15px;left: 20px;">xxxtaikif@gmail.com</h3>
             </div>
-            <div className={styles.card}>
-              <h3>Discord：taikif</h3>
+            <div className={styles.card_contact}>
+            <Image src="/discord.svg"
+              alt="mail"
+              className={styles.vercelLogo}
+              width={50}
+              height={50}
+              priority/>
+              <h3 style="position: relative;bottom: -15px;left: 20px;">taikif</h3>
             </div>
-            <div className={styles.card}>
-              <h3>Twitter：@enjoy_ctf</h3>
+            <div className={styles.card_contact}>
+            <Image src="/twitter(x).jpg"
+              alt="twitter(x)"
+              className={styles.vercelLogo}
+              width={50}
+              height={50}
+              priority/>
+              <h3 style="position: relative;bottom: -15px;left: 20px;">@enjoy_ctf</h3>
             </div>
             
 
