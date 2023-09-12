@@ -54,7 +54,7 @@ export default function Activities(){
               <h3 className={styles.h3_contact}>taikif</h3>
             </div>
             <div className={styles.card_contact}>
-            <Image src="/twitter(x).jpg"
+            <Image src="/twitter.svg"
               alt="twitter(x)"
               className={styles.vercelLogo}
               width={50}
