@@ -33,13 +33,27 @@ export default function Activities(){
                         Activities
                     </h1>
                 </div>
-                <div className={styles.card}>
-                    <p>
+                <div className={styles.card_activities}>
+                <Image src="/blog.svg"
+              alt="mail"
+              className={styles.vercelLogo}
+              width={50}
+              height={50}
+              priority/>
+
+                    <p styles={p_activities}>
                         はてなブログを更新しました（2023/08/02）
                     </p>
                 </div>
-                <div className={styles.card}>
-                    <p>
+                <div className={styles.card_activities}>
+                <Image src="/blog.svg"
+              alt="mail"
+              className={styles.vercelLogo}
+              width={50}
+              height={50}
+              priority/>
+
+                    <p styles={p_activities}>
                         はてなブログを更新しました（2023/07/20）
                     </p>
                 </div>
