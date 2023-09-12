@@ -40,7 +40,8 @@ export default function Activities(){
               width={50}
               height={50}
               priority/>
-              <h3 style="position: relative;bottom: -15px;left: 20px;">xxxtaikif@gmail.com</h3>
+
+              <h3 className={styles.h3_contact}>xxxtaikif@gmail.com</h3>
             </div>
             <div className={styles.card_contact}>
             <Image src="/discord.svg"
@@ -49,7 +50,8 @@ export default function Activities(){
               width={50}
               height={50}
               priority/>
-              <h3 style="position: relative;bottom: -15px;left: 20px;">taikif</h3>
+
+              <h3 className={styles.h3_contact}>taikif</h3>
             </div>
             <div className={styles.card_contact}>
             <Image src="/twitter(x).jpg"
@@ -58,7 +60,8 @@ export default function Activities(){
               width={50}
               height={50}
               priority/>
-              <h3 style="position: relative;bottom: -15px;left: 20px;">@enjoy_ctf</h3>
+
+              <h3 className={styles.h3_contact}>@enjoy_ctf</h3>
             </div>
             
 

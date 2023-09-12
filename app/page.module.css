@@ -91,6 +91,17 @@
   max-width: 30ch;
 }
 
+.h3_contact{
+  white-space: nowrap;
+  font-weight: 600;
+  margin-bottom: 0.7rem;
+  opacity: 0.6;
+  font-size: 0.9rem;
+  position: relative;
+  bottom: -15px;
+  left: 20px;
+}
+
 .center {
   display: flex;
   justify-content: center;
