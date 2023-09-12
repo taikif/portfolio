@@ -34,6 +34,12 @@ export default function Activities(){
                     </h1>
             </div>
             <div className={styles.card}>
+              <Image src="/mail_pic.svg"
+              alt="mail"
+              className={styles.vercelLogo}
+              width={200}
+              height={100}
+              priority/>
               <h3>Mail：xxxtaikif@gmail.com</h3>
             </div>
             <div className={styles.card}>
