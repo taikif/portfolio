@@ -60,7 +60,7 @@ export default function Activities(){
               height={50}
               priority/>
 
-                    <p className={styles.p_activities}>
+                    <p>
                         はてなブログを更新しました（2023/07/20）
                     </p>
                     </a>
