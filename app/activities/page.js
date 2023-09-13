@@ -44,7 +44,7 @@ export default function Activities(){
               width={50}
               height={50}
               priority/>
-                    <p>
+                    <p className={styles.p_activities}>
                         はてなブログを更新しました（2023/08/02）
                     </p>
                 </a>
@@ -60,7 +60,7 @@ export default function Activities(){
               height={50}
               priority/>
 
-                    <p>
+                    <p className={styles.p_activities}>
                         はてなブログを更新しました（2023/07/20）
                     </p>
                     </a>
