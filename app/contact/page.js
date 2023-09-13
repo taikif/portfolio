@@ -33,7 +33,10 @@ export default function Activities(){
                         Contact
                     </h1>
             </div>
-            <div className={styles.card_contact}>
+            <a
+                className={styles.card_activities}
+                href="#"
+                rel="noopener noreferrer">
               <Image src="/mail_pic.svg"
               alt="mail"
               className={styles.vercelLogo}
@@ -42,8 +45,12 @@ export default function Activities(){
               priority/>
 
               <h3 className={styles.h3_contact}>xxxtaikif@gmail.com</h3>
-            </div>
-            <div className={styles.card_contact}>
+            </a>
+            <a
+                className={styles.card_activities}
+                href="https://discordapp.com/users/589466773980577793
+                "
+                rel="noopener noreferrer">
             <Image src="/discord.svg"
               alt="mail"
               className={styles.vercelLogo}
@@ -52,8 +59,13 @@ export default function Activities(){
               priority/>
 
               <h3 className={styles.h3_contact}>taikif</h3>
-            </div>
-            <div className={styles.card_contact}>
+              </a>
+
+              <a
+                className={styles.card_activities}
+                href="https://twitter.com/enjoy_ctf
+                "
+                rel="noopener noreferrer">
             <Image src="/twitter.svg"
               alt="twitter(x)"
               className={styles.vercelLogo}
@@ -62,8 +74,7 @@ export default function Activities(){
               priority/>
 
               <h3 className={styles.h3_contact}>@enjoy_ctf</h3>
-            </div>
-            
+              </a>
 
 
         </main>
