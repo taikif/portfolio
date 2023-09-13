@@ -102,6 +102,15 @@
   max-width: 30ch;
 }
 
+.card_activities p{
+  white-space: nowrap;
+  margin: 0;
+  opacity: 0.6;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  max-width: 30ch;
+}
+
 .p_activities{
   white-space: nowrap;
   margin: 0;

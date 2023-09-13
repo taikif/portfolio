@@ -33,8 +33,9 @@ export default function Activities(){
                         Activities
                     </h1>
                 </div>
-                <div className={styles.card_activities}>
+    
                 <a
+                className={styles.card_activities}
                 href="https://taikif.hatenablog.com/"
                 rel="noopener noreferrer">
                 <Image src="/blog.svg"
@@ -47,10 +48,9 @@ export default function Activities(){
                         はてなブログを更新しました（2023/08/02）
                     </p>
                 </a>
-                </div>
 
-                <div className={styles.card_activities}>
                 <a
+                className={styles.card_activities}
                 href="https://taikif.hatenablog.com/"
                 rel="noopener noreferrer">
                 <Image src="/blog.svg"
@@ -64,7 +64,6 @@ export default function Activities(){
                         はてなブログを更新しました（2023/07/20）
                     </p>
                     </a>
-                </div>
             
         </main>
 
